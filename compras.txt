@@ -1,1 +1,3 @@
 estamos agregando texto al archivo para probar
+esta es una segunda linea
+y esta es una tercera
